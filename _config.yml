@@ -17,7 +17,7 @@ lang: en-US
 title: My Awesome Site
 email:
 description:
-baseurl:"/shakeeee" # the optional subpath of your site, e.g. "/blog"
+baseurl: "/shakeeee" # the optional subpath of your site, e.g. "/blog"
 url: "http://shakeeee.gitee.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name:
